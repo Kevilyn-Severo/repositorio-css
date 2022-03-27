@@ -1,0 +1,30 @@
+.primeira {
+    background-color:#b700ff; 
+    width: 300px;
+    height: 400px;
+    }
+
+   .segunda {
+    background-color:#00FF00;
+     width: 100px;
+      height: 250px;
+    }
+
+    p{
+        color:rgb(8, 8, 8);
+        background-color:#ff73009a;
+        font-size: 25px;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    }
+
+    .terceira{
+        width: 350px; 
+        height: 60vh; 
+        background-color:#1f0bd8;
+    }
+
+    .quarta{
+        width:50vw;
+        height:20px;
+        background-color:#FF0000;
+    }
